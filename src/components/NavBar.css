@@ -1,0 +1,21 @@
+.navbar {
+  margin: 10px;
+  background-color: #555;
+}
+
+.navbar a {
+  text-decoration: none;
+  color: #fff;
+  margin-right: 20px;
+}
+
+.navbar a:hover {
+  color: #ff0000;
+}
+
+/* .active {
+  color: #ff0000;
+  text-decoration: underline;
+  font-family: bold;
+  background-color: rgb(131, 129, 129);
+} */
